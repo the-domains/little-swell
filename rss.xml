@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Little Swell]]></title>
         <description><![CDATA[Little Swell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://littleswell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 08:02:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 08:08:00 GMT</lastBuildDate>
+        <atom:link href="http://littleswell.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Legalize It!]]></title>
-            <description><![CDATA[<article><h1>Legalize It!</h1><p>We're so allowed to continue living on our boat!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f05251cd408f4c0090a5ab44df5a79cc56db39bc.jpg"></article>]]></description>
-            <link>undefinedlegalize-it/index.html</link>
+            <description><![CDATA[<article><h1>Legalize It!</h1><p>The city of Seattle has new rules about living on the water.  With a little effort, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f05251cd408f4c0090a5ab44df5a79cc56db39bc.jpg"></article>]]></description>
+            <link>http://littleswell.com/legalize-it/index.html</link>
             <guid isPermaLink="false">00e299f4-c614-4a91-9108-913a7865341b</guid>
-            <pubDate>Thu, 10 Mar 2016 08:02:39 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 08:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

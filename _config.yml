@@ -1,5 +1,8 @@
+name: Little Swell
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.09316
 title: Little Swell
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1875
-  brandStrength: 0.7942665
-  lightness: 0.6875
   brandColors:
     - '#FCFFF6'
     - '#183441'
     - '#3F606F'
     - '#92AA9D'
     - '#D1DCBE'
+  brandStrength: 0.7942665
+  lightness: 0.625
+  saturation: 0.5
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Little Swell
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.09316
-layout_spectrum: 0
+purpose: []

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The city of Seattle has new regulations for living on the water. \_With a little effort, we were able to gain legal VDU status. \_Were the 904th one in Seattle waterways, and probably one of the last allowed by the city."
-datePublished: '2016-03-11T05:49:06.780Z'
-dateModified: '2016-03-11T05:48:44.353Z'
+datePublished: '2016-03-11T05:50:58.859Z'
+dateModified: '2016-03-11T05:50:46.359Z'
 title: 'Legalize It!'
 author: []
 sourcePath: _posts/2016-03-10-legalize-it.md

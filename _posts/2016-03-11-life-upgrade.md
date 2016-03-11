@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "We got along fine for years without a washing machine. Our marina has a laundry room. \_Having Louie changed that a bit. \_Babies, it turns out, are messy. \_So we bought a combined washer-dryer on Craigslist. \_It's a vented unit, which is crucial on a boat with moist marine air."
-datePublished: '2016-03-11T03:30:08.212Z'
-dateModified: '2016-03-11T03:28:53.457Z'
+description: "We lived for years without a washing machine. Our marina has a laundry room. \_Having Louie changed that a bit. \_Babies, it turns out, are messy. \_So we bought a combined washer-dryer on Craigslist. \_It's a vented unit, which is crucial on a boat with moist marine air."
+datePublished: '2016-03-11T05:49:59.548Z'
+dateModified: '2016-03-11T05:48:20.676Z'
 title: Life Upgrade
 author: []
+sourcePath: _posts/2016-03-11-life-upgrade.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-life-upgrade.md
-published: true
 url: life-upgrade/index.html
 _type: Article
 

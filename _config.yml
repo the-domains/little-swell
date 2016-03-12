@@ -1,6 +1,6 @@
 name: Little Swell
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.09316
 title: Little Swell
 collections:
@@ -34,7 +34,7 @@ color:
     - '#131119'
     - '#9e967c'
     - '#453f33'
-  brandStrength: 0.7942665
+  brandStrength: 0.875
   lightness: 1
   saturation: 1
   rhythmicContrast: 0

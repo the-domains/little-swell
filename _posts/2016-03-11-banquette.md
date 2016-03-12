@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: The perfect nook
-datePublished: '2016-03-11T05:47:44.045Z'
-dateModified: '2016-03-11T05:47:06.679Z'
+datePublished: '2016-03-12T05:08:02.808Z'
+dateModified: '2016-03-12T05:07:28.215Z'
 title: Banquette
 author: []
 sourcePath: _posts/2016-03-11-banquette.md

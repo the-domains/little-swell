@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "We lived for years without a washing machine. Our marina has a laundry room. \_Having Louie changed that a bit. \_Babies, it turns out, are messy. \_So we bought a combined washer-dryer on Craigslist. \_It's a vented unit, which is crucial on a boat with moist marine air."
-datePublished: '2016-03-12T05:07:07.046Z'
-dateModified: '2016-03-12T05:05:54.357Z'
+datePublished: '2016-03-12T05:12:18.445Z'
+dateModified: '2016-03-12T05:11:33.590Z'
 title: Life Upgrade
 author: []
 sourcePath: _posts/2016-03-11-life-upgrade.md

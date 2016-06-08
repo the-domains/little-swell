@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.875
-  rhythmicContrast: 0
+  brandStrength: 0.579258
+  lightness: 1
   brandColors:
     - '#faf9fb'
     - '#e1dad6'
     - '#131119'
     - '#9e967c'
     - '#453f33'
-  lightness: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Little Swell
 favicon: null
+name: Little Swell
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.09316
-layout_spectrum: 0.7748735
+layout_spectrum: 0
